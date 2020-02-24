@@ -1,0 +1,81 @@
+body {
+	color: rgb(0,0,128);
+}
+
+header {
+	text-align: center;
+	margin: auto;
+}
+
+header h2 {
+	margin: 0;
+	font-size: 0.85em;
+	line-height: 1.2em;
+}
+
+header p {
+	margin: 0;
+	font-size: 1.1em;
+	font-weight: 700;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 1.2em;
+	line-height: 1em;
+	margin-bottom: .25em;
+}
+
+h5 {
+	font-size: .5em;
+	font-weight: 400;
+}
+
+p {
+	font-size: .9em;
+}
+
+li {
+	line-height: 1.5em;
+	margin-bottom: 2em;
+}
+
+li span {
+	font-size: .65em;
+}
+
+a {
+	color: #800080;
+}
+
+.big {
+	font-size: 1.6em;
+}
+
+.small {
+	font-size: .7em;
+}
+
+.list {
+	float: left;
+	width: 50%;
+	min-height: 100%;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.geico {
+	text-align: center;
+	margin: auto;
+}
+
+.geico p {
+	font-size: .8em;
+	margin-top: 0;
+}
+
+#bullets {
+	width: 100%;
+}
